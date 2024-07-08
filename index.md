@@ -1,6 +1,4 @@
 # This is a cool header
 
-This is a cool image 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-
+ 
+![This is a cool image](https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg)
